@@ -1,2 +1,2 @@
 conteudo do arquivo 1.1
-nova linha no arquivo
+nova linha no arquivo. conteudo do arquivo 2
